@@ -3,5 +3,9 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.000000,
-https://peace94tes.github.io/Event/no_stream.ts
+https://peace94tes.github.io/Event/no_stream_0.ts
+#EXTINF:5.99999,
+https://peace94tes.github.io/Event/no_stream_1.ts
+#EXTINF:2.99999,
+https://peace94tes.github.io/Event/no_stream_2.ts
 #EXT-X-ENDLIST
